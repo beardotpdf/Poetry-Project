@@ -9,7 +9,7 @@ Part of the permutation poems is the challenge of performing them, the words ble
 This source file is the baseline text from bladerunner 2049, I chose this becuase of it's poetic qualities and the pure enjoyment I have when reading that piece of literature.
 Below output of this program. In this repository is also the txt file I used for this poem and the program itself
 
-k o b '
+>k o b '
                    k o ' b
                                       k b o '
                                                          k b ' o
